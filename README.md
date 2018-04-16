@@ -9,7 +9,7 @@ $ npm install --save-dev browser-sync-webpack-plugin
 ```
 or
 ```bash
-$ yarn add --dev browser-sync-webpack-plugin
+$ yarn add --D browser-sync-webpack-plugin
 ```
 
 With release of 2.0.0 the plugin is expected to be used in Node v4+ environment.
